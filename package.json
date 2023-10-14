@@ -1,0 +1,7 @@
+{
+    "author": "guidsribeiro",
+    "scripts": {
+        "start": "node dist/index.js"
+    },
+    "license": "MIT"
+}

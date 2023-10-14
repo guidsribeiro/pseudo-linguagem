@@ -1,0 +1,1 @@
+console.log("Um texto qualquer");
